@@ -1,0 +1,42 @@
+.column1{
+    width: 150px;
+    height: 250px;
+    margin-top: 20px;
+    border: black 1px solid;
+    background-color: red;
+}
+.column2{
+    width: 150px;
+    height: 250px;
+    margin-top: 20px;
+    border: black 1px solid;
+    background-color:green ;
+  
+}
+.column3{
+    width: 150px;
+    height: 250px;
+    margin-top: 20px;
+    border: black 1px solid;
+    background-color:blue;
+}
+.column4{
+    width: 150px;
+    height: 250px;
+    margin-top: 20px;
+    border: black 1px solid;
+    background-color:purple;
+   
+   
+   
+}
+div{
+    display: inline-block;
+}
+body{
+    background-color: orange;
+}
+
+
+
+
